@@ -33,8 +33,8 @@ use POSIX 'strftime';
 
 my $timestamp = strftime('%Y-%m-%dT%H-%M-%S', localtime());
 #say "$timestamp";
-my $backupLogin = "snpa";
-my $backupPassword = "iwaicnecrm";
+my $backupLogin = "cisco";
+my $backupPassword = "Cisco";
 
 # Log file
 my $errorLog = "error.log";
